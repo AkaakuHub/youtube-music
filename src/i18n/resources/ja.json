@@ -854,6 +854,16 @@
         "visualizer-type": "ビジュアライザーの種類"
       },
       "name": "視覚効果"
+    },
+    "song-share": {
+      "description": "現在の楽曲をカスタマイズ可能な形式で共有します",
+      "menu": {
+        "format": "形式",
+        "titleAndUrl": "タイトルとURL",
+        "titleOnly": "タイトルのみ",
+        "urlOnly": "URLのみ"
+      },
+      "name": "楽曲共有"
     }
   }
 }

@@ -868,6 +868,16 @@
         "visualizer-type": "Visualizer Type"
       },
       "name": "Visualizer"
+    },
+    "song-share": {
+      "description": "Share the current song with customizable format options",
+      "menu": {
+        "format": "Format",
+        "title-and-url": "Title and URL",
+        "title-only": "Title Only",
+        "url-only": "URL Only"
+      },
+      "name": "Song Share"
     }
   }
 }
